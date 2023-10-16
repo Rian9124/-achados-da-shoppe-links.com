@@ -1,5 +1,5 @@
 body{
-    color: (0, 0, 0);
+    color: rgb(0, 0, 0);
     background: #f5adf0;
     font-family: Arial, Helvetica, sans-serif;
 
@@ -11,26 +11,26 @@ ul {
     display: flex;
     justify-content: space-between;
     align-items: normal;
-    padding: 80;
+    padding: 80px;
     text-align: left;
     
 }
 .center{ 
     text-align: center;
-    padding: 10;
+    padding: 10px;
     
 }
 img{
-    width: 200;
-    height: 200;
-    border-radius: 50;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
 }
 .center1 {
     text-align: center;  
 }
 img
     .center2 {
-        width: 40;
-        height: 40;
-        border-radius: 50;
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
 }
