@@ -10,7 +10,7 @@ ul {
     justify-content: space-between;
     align-items: normal;
     padding: 80px;
-    text-align: center;
+    text-align: left;
     min-width: 320px ;
     max-width: 1030px ;
     
@@ -21,15 +21,18 @@ ul {
     
 }
 img{
+    width: 100%;
     width: 200px;
     height: 200px;
     border-radius: 50%;
 }
 .center1 {
-    text-align: center;  
+    text-align: center;
+    width: 100%;
 }
 img
     .center2 {
+        width: 100%;
         width: 40px;
         height: 40px;
         border-radius: 50%;
