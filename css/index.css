@@ -15,8 +15,9 @@ ul {
 }
 
 .center{ 
-    text-align: right;
+    text-align: center;
     padding: 10px;
+    
     
 }
 img{
@@ -25,7 +26,7 @@ img{
     border-radius: 50%;
 }
 .center1 {
-    text-align: right;  
+    text-align: center;  
 }
 img
     .center2 {
