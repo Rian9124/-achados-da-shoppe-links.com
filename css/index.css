@@ -10,12 +10,12 @@ ul {
     justify-content: space-between;
     align-items: normal;
     padding: 80px;
-    text-align: center;
+    text-align: left;
     
 }
 
 .center{ 
-    text-align: center;
+    text-align: auto;
     padding: 10px;
     
 }
@@ -25,7 +25,7 @@ img{
     border-radius: 50%;
 }
 .center1 {
-    text-align: center;  
+    text-align: auto;  
 }
 img
     .center2 {
