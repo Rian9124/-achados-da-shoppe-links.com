@@ -35,7 +35,6 @@ img
 }
 @media screen and (max-width: 768px){
 .center1 {
-    display: flex;
-    text-align: center;
+text-align: center;
 }
 }
