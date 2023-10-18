@@ -33,21 +33,27 @@ img
         height: 40px;
         border-radius: 50%;
 }
-@media screen and (max-width: 768px){
+@media screen and (max-width: 600px){
     .center{
+        display: flex;
         text-align: center; 
     }
     .center1{
+        display: flex;
         text-align: center; 
     }
     .center2{
+        display: flex;
         text-align: center; 
     }.center3{
+        display: flex;
         text-align: center; 
     }.center4{
+        display: flex;
         text-align: center; 
     }
     .center5{
+        display: flex;
         text-align: center; 
     }
 }
