@@ -13,11 +13,6 @@ ul {
     text-align: center;
     
 }
-@media and (max-width: 500px;) {
-    ul {
-        color: #f5adf0;
-    }
-} 
 
 .center{ 
     text-align: center;
@@ -37,4 +32,8 @@ img
         width: 40px;
         height: 40px;
         border-radius: 50%;
+}
+@media screen and (max-width: 768px){
+.ul {margin: 0%;
+}
 }
