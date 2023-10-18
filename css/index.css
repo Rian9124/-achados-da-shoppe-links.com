@@ -15,7 +15,7 @@ ul {
 }
 
 .center{ 
-    text-align: auto;
+    text-align: right;
     padding: 10px;
     
 }
@@ -25,43 +25,11 @@ img{
     border-radius: 50%;
 }
 .center1 {
-    text-align: auto;  
+    text-align: right;  
 }
 img
     .center2 {
         width: 40px;
         height: 40px;
         border-radius: 50%;
-}
-@media screen and (max-width: 768px){
-   .center{
-        height: 200px;
-        margin-right: auto;
-        margin-left: auto;
-    }
-    .center1{
-        height: 200px;
-        margin-right: auto;
-        margin-left: auto;
-    }
-    .center2{
-        height: 200px;
-        margin-right: auto;
-        margin-left: auto; 
-    }
-    .center3{
-        height: 200px;
-        margin-right: auto;
-        margin-left: auto;
-    }
-    .center4{
-        height: 200px;
-        margin-right: auto;
-        margin-left: auto;
-    }
-    .center5{
-        height: 200px;
-        margin-right: auto;
-        margin-left: auto;
-    }
 }
